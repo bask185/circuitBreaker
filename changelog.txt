@@ -1,0 +1,4 @@
+currentDetector
+v0.0.0   Date/time:2022-01-18 23:33:09.219183
+Project assembled
+
